@@ -1,4 +1,4 @@
-package me.corey.anno;
+package me.corey.anno.basic;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;

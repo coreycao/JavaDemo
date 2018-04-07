@@ -1,4 +1,4 @@
-package me.corey.anno;
+package me.corey.anno.basic;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
